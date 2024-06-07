@@ -1,0 +1,3 @@
+mu0 dmudT dmudP eta0 Ea Va dTdz dmudMG dpdMg
+81 -0.014 1.6 22 400e3 6e-6 2.25 -5.5 -1619
+8 0.003 0.2 3 200e3 4e-6 2.25 2 100
